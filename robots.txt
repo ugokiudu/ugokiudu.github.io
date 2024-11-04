@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ugokiudu.github.io/Jkh/sitemap_index.txt
+Sitemap: https://ugokiudu.github.io/KPG/sitemap_index.txt
+Sitemap: https://ugokiudu.github.io/Qnp/sitemap_index.txt
+Sitemap: https://ugokiudu.github.io/qTc/sitemap_index.txt
